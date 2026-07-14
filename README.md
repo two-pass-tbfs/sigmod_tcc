@@ -209,4 +209,4 @@ The JAR files expect two input files in CSV format:
 ### Sample Datasets
 
 - Real-world: [bitcoin_alpha](https://github.com/two-pass-tbfs/sigmod_tcc/releases/download/v1.0.0/bitcoin_alpha.tar.gz)
-- Erdős–Rényi: [erdos_reyni](https://github.com/two-pass-tbfs/sigmod_tcc/releases/download/v1.0.0/erdos_reyni_n10000.tar.gz)
+- Erdős–Rényi: [erdos_renyi](https://github.com/two-pass-tbfs/sigmod_tcc/releases/download/v1.0.0/erdos_reyni_n10000.tar.gz)
